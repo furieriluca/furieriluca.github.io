@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jemdocCustom.css" type="text/css" />
+<title>Luca Furieri - ETH Zurich</title>
+</head>
+
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Luca Furieri</div>
+<div class="menu-item"><a href="index.php" class="current">Home</a></div>
+<div class="menu-item"><a href="CV/cv.pdf">CV</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.php">Publications</a></div>
+<div class="menu-item"><a href="presentations.php">Presentations</a></div>
+<!-- <div class="menu-item"><a href="presentations.php">Presentations</a></div> -->
+<!-- <div class="menu-item"><a href="people.php">People</a></div> -->
+<!-- <div class="menu-item"><a href="teaching.php">Services</a></div> -->
+<!-- <div class="menu-category">Others</div>
+<!-- <div class="menu-item"><a href="">Travel</a></div> -->
+</td>
+<td id="layout-content">
+<h1>Luca Furieri</h1>
+<table class="imgtable"><tr><td>
+<p><img style="float: left; margin-right: 10px; margin-top: 20px; height: 220px;" src="Luca_Furieri.jpg" alt=“Luca Furieri” /></p><td align="left"><p><a href="">Luca Furieri</a></p>
+<p>PhD Candidate <br />
+<a href="https://www.ee.ethz.ch/">Departement Informationstechnologie und Elektrotechnik (D-ITET)</a> <br />
+<a href="https://www.ethz.ch/en.html">ETH Zurich</a></p>
+<p>Address: <br />
+ETL K.12, Physikstrasse 3 <br />
+8092 Zurich, Switzerland.</p>
+<p>Office phone number:+41 44 632 85 31 <br />
+E-mail: furieril@control.ee.ethz.ch</p>
+</td></tr></table>
+<h2>Brief Biography</h2>
+<p>I am a Ph.D. candidate in control theory at the Automatic Control Laboratory, ETH - Zurich, under the supervision of Prof. Maryam Kamgarpour. I received the Bachelor and Master degrees in Automation Engineering from the University of Bologna, both with honours, in 2014 and 2016 respectively. In 2016, I visited the Autonomous Systems Laboratory, ETH - Zurich as a student researcher to work on the control of small fixed-wing UAVs in windy environments. I was a finalist for the Best Student Paper award  at the 2019 European Control Conference and received the O. Hugo Schuck Best Paper Award at the 2018 American Control Conference. My current research interests are centered around the theoretical challenges of optimal distributed control for constrained and uncertain dynamical systems. I am also interested in several applications ranging from the electrical power grid to formations of autonomous vehicles.</p>
+<h2>News</h2>
+<ol>
+<li><p>01/2020: Our paper: <a href="https://arxiv.org/abs/1909.10999">First Order Methods For Globally Optimal Distributed Controllers Beyond Quadratic Invariance
+</a> was accepted for presentation at the American Control Conference (2020).</p>
+</li>
+<li><p>12/2019: Our paper: <a href="https://arxiv.org/abs/1906.06777">Sparsity Invariance for Convex Design of Distributed Controllers</a> was conditionally accepted for publication in the IEEE Transactions on Control of Network Systems.</p>
+</li>
+<li><p>12/2019: Check out our new preprint on learning optimal distributed controllers for unknown systems: <a href="https://arxiv.org/abs/1912.08774">Learning the Globally Optimal Distributed LQ Regulator</a>.</p>
+</li>
+
+<li><p>12/2019: I will be attending the CDC 2019 in Nice from the 10th to the 13th of December 2019. Looking forward to interesting discussions!</p>
+</li>
+
+<li><p>11/2019: Our paper <a href="https://arxiv.org/abs/1907.06256">On the Equivalence of Youla, System-level and Input-output Parameterizations</a> was conditionally accepted for publication in the IEEE Transactions on Automatic Control.</p>
+</li>
+
+<li><p>09/2019: We posted a new paper on global convergence of gradient-descent methods for distributed control: <a href="https://arxiv.org/abs/1909.10999">First Order Methods For Globally Optimal Distributed Controllers Beyond Quadratic Invariance</a>.
+</li>
+
+<li><p>07/2019: Our paper <a href="https://arxiv.org/abs/1903.03828">An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis</a> was accepted for presentation at CDC 2019.
+</li>
+
+<li><p>07/2019: A new preprint on the parameterization of stabilizing controllers: <a href="https://arxiv.org/abs/1907.06256">On the Equivalence of Youla, System-level and Input-output Parameterizations</a>.</p>
+</li>
+
+<li><p>06/2019: We posted a new paper on sparse controller synthesis beyond QI: <a href="https://arxiv.org/abs/1906.06777">Sparsity Invariance for Convex Design of Distributed Controllers</a>.</p>
+</li>
+
+<li><p>06/2019: Our paper <a href="https://arxiv.org/abs/1903.04096">On Separable Quadratic Lyapunov Functions for Convex Design of Distributed Controllers</a> was selected as one of the top five finalists for the <a href="https://ecc19.eu/award/ecc19-best-student-paper-award/"><b>Best Student Paper Award</b></a> of the European Control Conference (ECC) 2019.</p>
+</li>
+
+<li><p>05/2019: Our paper <a href="https://ieeexplore.ieee.org/abstract/document/8727508/"> An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis</a> was accepted for publication in the IEEE Control and Systems Letters.</p>
+</li>
+<li><p>04/2019: Our paper <a href="https://ieeexplore.ieee.org/document/8692409">Unified Approach to Convex Robust Distributed Control given Arbitrary Information Structures</a> was accepted for publication in the IEEE Transactions on Automatic Control.</p>
+</li>
+<li><p>03/2019: New preprint on an input-ouput parameterization for decentralized control: <a href="https://arxiv.org/abs/1903.03828">An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis</a>.</p>
+</li>
+<li><p>02/2019: Our paper <a href="https://arxiv.org/abs/1903.04096">On Separable Quadratic Lyapunov Functions for Convex Design of Distributed Controllers</a> was accepted for presentation at the European Control Conference (ECC) 2019.</p>
+</li>
+<li><p>08/2018: I visited  <a href="http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis"> Prof. Antonis Papachristodoulou</a> at the University of Oxford, and presented a seminar talk on robust distributed control beyond quadratic invariance.</p>
+</li>
+
+<li><p>06/2018: Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7963609">Gone with the Wind: Nonlinear Guidance for Small Fixed-Wing
+Aircraft in Arbitrarily Strong Windfields</a> was awarded the
+<a href="http://a2c2.org/awards/o-hugo-schuck-best-paper-award"><b>O. Hugo Shuck Best Paper Award</b></a> at ACC 2018.</p>
+</li>
+
+</ol>
+
+
+
+
+
+</td>
+</tr>
+</table>
+</body>
+
+</html>
+

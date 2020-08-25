@@ -1,0 +1,63 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jemdocCustom.css" type="text/css" />
+<link rel="stylesheet" href="bibtex.css" type="text/css" />
+<title>Luca Furieri - Publications</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Luca Furieri</div>
+<div class="menu-item"><a href="index.php">Home</a></div>
+<div class="menu-item"><a href="CV/cv.pdf">CV</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.php" class="current">Publications</a></div>
+<div class="menu-item"><a href="presentations.php">Presentations</a></div>
+
+<!-- <div class="menu-item"><a href="presentations.php">Presentations</a></div> -->
+<!-- <div class="menu-item"><a href="people.php">People</a></div> -->
+<!-- <div class="menu-item"><a href="teaching.php">Services</a></div> -->
+<!-- <div class="menu-category">Others</div> -->
+<!-- <div class="menu-item"><a href="">Travel</a></div> -->
+</td>
+
+
+
+<td id="layout-content">
+<h1>Selected Talks</h1>
+<ol>
+<li><p><a href="talks/L4DC_printed.pdf">﻿Learning the Globally Optimal Distributed LQ Regulator </a> <br />
+ 2nd Learning For Dynamics and Control Conference, 2020, Berkeley (online), USA<br />
+December, 2019</p>
+</li>
+<li><p><a href="talks/CDC19.pdf">﻿An Input-Output Parametrization of Stabilizing Controllers: amidst Youla and System Level Synthesis</a> <br />
+IEEE Conference on Decision and Control, 2019, Nice, France<br />
+December, 2019</p>
+</li>
+
+<li><p><a href="talks/ECC19.pdf">﻿﻿On separable quadratic Lyapunov functions for convex design of distributed controllers</a> <br />
+European Control Conference (ECC), 2019, Naples, Italy<br />
+June, 2019</p>
+</li>
+<li><p><a href="talks/CDC18.pdf">﻿﻿Robust distributed control beyond quadratic invariance</a> <br />
+IEEE Conference on Decision and Control, 2018, Miami, USA<br />
+December, 2018</p>
+</li>
+<li><p><a href="talks/Oxford.pdf">﻿Synthesizing Robust Distributed Controllers: Information Structures, Convexity and Performance Bounds</a> <br />
+Seminar Talk at Oxford University, 2018, Oxford, UK<br />
+August, 2018</p>
+</li>
+
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
